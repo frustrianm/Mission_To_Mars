@@ -1,2 +1,2 @@
 # Mission_To_Mars
-FRM's Module 10 repository
+Florencio's repository for HTML/CSS activities and Challenge 10.
